@@ -17,6 +17,7 @@ Data was imported and previewed.
 Data cleaning was carried out by identifying and handling missing values
 Encoded categorical variables and numerical features were scaled.
 Created visualizations (heatmap, segment distribution) to understand the correlation between several components of the dataset.
+Feature engineering that introduces new features like Age group, Total family was done. Created 'Work_Exp_Age_Interaction' from 'Work_Experience' and 'Age' (scaled)
 The cleaned dataset was saved for modeling.
 
 ## Files uploaded in Repository
