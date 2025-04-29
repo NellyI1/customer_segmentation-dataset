@@ -1,7 +1,6 @@
 # customer_segmentation-dataset
 Clean and transformed dataset for Bosch price-optimization model project
-# Bosch Customer Segmentation - Milestone 1
-
+# Bosch Customer Segmentation
 This repository contains the exploratory data analysis (EDA) notebook and cleaned dataset for the Bosch price optimization using customer segmentation dataset business analytics project.
 
 ## Project Overview
