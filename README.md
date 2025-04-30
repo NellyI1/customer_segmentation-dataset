@@ -20,8 +20,9 @@ Feature engineering that introduces new features like Age group, Total family wa
 The cleaned dataset was saved for modeling.
 
 ## Files uploaded in Repository
-
+customer segmentation dataset - Test.csv
 optimization.py`: Python script for cleaning and preprocessing
+optimization.ipynb: Jupyter script
 `cleaned_customer_segmentation.csv`: Final cleaned dataset
 
 ## Tools Used
