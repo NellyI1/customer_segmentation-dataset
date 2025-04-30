@@ -15,13 +15,13 @@ Source: [Customer Segmentation Dataset](https://www.kaggle.com/datasets/kaushiks
 Data was imported and previewed.
 Data cleaning was carried out by identifying and handling missing values
 Encoded categorical variables and numerical features were scaled.
-Created visualizations (heatmap, segment distribution) to understand the correlation between several components of the dataset.
+Created visualizations (heatmap, segment distribution) to understand the correlation between several dataset components.
 Feature engineering that introduces new features like Age group, Total family was done. Created 'Work_Exp_Age_Interaction' from 'Work_Experience' and 'Age' (scaled)
 The cleaned dataset was saved for modeling.
 
 ## Files uploaded in Repository
 
-Customer_Segmentation_EDA.py`: Python script for cleaning and preprocessing
+optimization.py`: Python script for cleaning and preprocessing
 `cleaned_customer_segmentation.csv`: Final cleaned dataset
 
 ## Tools Used
